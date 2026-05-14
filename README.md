@@ -14,5 +14,5 @@ O repositório ainda está em construção e ainda estamos atualizando o README
 
 
 
-&#x20;\* vamos aprender a fazer um "commit" local 
+&#x20;\* vamos aprender a fazer um "commit" local (conseguimos!!!)
 
