@@ -1,2 +1,5 @@
-Dicas para o GitHub:
-WOW, AQUI TEM DICAS PRA TE AJUDAR COM O GITHUB
+WOW, AQUI TEM DICAS PRA TE AJUDAR COM O GITHUB:
+
+* sempre coloque bons comentários no seus commits (informativos!)
+
+* trabalhe sempre no ramo de desenvolvimento e depois espelhe-as no ramo principal
